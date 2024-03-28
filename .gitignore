@@ -1,2 +1,8 @@
 # JetBrains
 /.idea/
+
+# LaTeX
+/*.aux
+/*.log
+/*.out
+/*.toc
